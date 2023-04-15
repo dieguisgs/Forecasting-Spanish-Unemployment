@@ -11,4 +11,4 @@ Project done by:
 |Agustín Rodriguez    | agustin.rodriguezagudo@alu.comillas.edu|
 |Diego Sanz-Gadea     | d.sanz-gadea@alu.icai.comillas.edu     |
 
-This repository has been created for a project about Deep Learning in the Machine Learning I course in the Big Data Master's Degree at Comillas ICAI University.
+This repository has been created for a project about Forecasting in the Machine Learning I course in the Big Data Master's Degree at Comillas ICAI University.
